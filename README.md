@@ -8,7 +8,7 @@
 👶 1995.11.8 <br>
 📞 010-5113-3095 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sinyoung3095@gmail.com)](mailto:sinyoung3095@gmail.com) <span><a href="[https://spotty-alligator-d0a.notion.site/b5c2a4cd0d004e29b5dde7e98ce2ae09?pvs=4](https://www.notion.so/2652727e308e807285d0e521fe91b75a)"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sinyoung3095@gmail.com)](mailto:sinyoung3095@gmail.com) <span><a href="https://www.notion.so/2652727e308e807285d0e521fe91b75a"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 
